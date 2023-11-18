@@ -20,7 +20,6 @@ public class Assignment1 {
 				else {
 					hashMap.put(ch, hashMap.get(ch)+1);
 				}
-			
 			}
 		}
 		
