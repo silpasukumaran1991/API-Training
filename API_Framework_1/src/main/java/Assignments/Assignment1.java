@@ -22,7 +22,6 @@ public class Assignment1 {
 				}
 			
 			}
-		
 		}
 		
 		return (HashMap<Character, Integer>) hashMap;
