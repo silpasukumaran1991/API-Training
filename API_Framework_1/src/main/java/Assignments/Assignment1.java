@@ -10,7 +10,6 @@ public class Assignment1 {
 		
 		Map<Character, Integer> hashMap = new HashMap<Character,Integer>();
 
-		
 		for(int i=0;i<str.length();i++) {
 			char ch =str.charAt(i);
 			if(ch!=' ') {
