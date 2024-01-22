@@ -1,0 +1,29 @@
+package steps;
+
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
+public class PatchTypeDefinition {
+	
+	
+	@Given("The user details which needs to be updated in partially")
+	public void the_user_details_which_needs_to_be_updated_in_partially() {
+	    // Write code here that turns the phrase above into concrete actions
+	  
+	}
+
+	@When("The admin user submits the user details which will be updated in partially")
+	public void the_admin_user_submits_the_user_details_which_will_be_updated_in_partially() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Then("The user is updated in partially successfull")
+	public void the_user_is_updated_in_partially_successfull() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+
+}

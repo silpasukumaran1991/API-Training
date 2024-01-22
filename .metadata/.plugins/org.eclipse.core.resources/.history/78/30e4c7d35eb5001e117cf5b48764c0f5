@@ -1,0 +1,7 @@
+Feature: Feature to test the put functionality 
+#Scenario 1 
+Scenario: Verify the user is able to update the user details
+
+Given 
+When 
+Then 
